@@ -1,0 +1,37 @@
+product,units,price,cost,date,region,category
+Laptop,5,55000,42000,2024-01-05,Delhi,Electronics
+Mobile Phone,12,18000,13000,2024-01-08,Mumbai,Electronics
+Headphones,20,2500,1500,2024-01-10,Bangalore,Electronics
+Office Chair,8,7500,5000,2024-01-12,Delhi,Furniture
+Study Table,4,9000,6500,2024-01-15,Pune,Furniture
+Cotton T-Shirt,50,599,300,2024-01-18,Jaipur,Clothing
+Jeans,30,1200,700,2024-01-20,Mumbai,Clothing
+Running Shoes,15,3500,2200,2024-01-22,Delhi,Sports
+Cricket Bat,10,1800,1100,2024-01-25,Chennai,Sports
+Python Book,25,450,250,2024-01-28,Bangalore,Books
+Data Science Book,18,550,300,2024-01-30,Hyderabad,Books
+Rice 5kg,60,320,210,2024-02-02,Delhi,Food
+Olive Oil,35,480,320,2024-02-05,Mumbai,Food
+Laptop,3,57000,42000,2024-02-08,Chennai,Electronics
+Mobile Phone,8,19000,13000,2024-02-10,Delhi,Electronics
+Bluetooth Speaker,22,3200,2000,2024-02-12,Pune,Electronics
+Gaming Chair,5,12000,8500,2024-02-14,Bangalore,Furniture
+Bookshelf,6,4500,3000,2024-02-16,Delhi,Furniture
+Formal Shirt,40,899,500,2024-02-18,Mumbai,Clothing
+Sports Shorts,35,699,380,2024-02-20,Jaipur,Clothing
+Football,20,1200,750,2024-02-22,Chennai,Sports
+Badminton Racket,14,2200,1400,2024-02-24,Delhi,Sports
+Machine Learning Book,12,650,380,2024-02-26,Bangalore,Books
+Wheat Flour 10kg,80,420,270,2024-02-28,Mumbai,Food
+Mustard Oil 1L,55,180,110,2024-03-02,Delhi,Food
+Smartwatch,9,8500,6000,2024-03-05,Hyderabad,Electronics
+Tablet,6,22000,16000,2024-03-08,Pune,Electronics
+Sofa Set,2,35000,25000,2024-03-10,Delhi,Furniture
+Dining Table,3,18000,13000,2024-03-12,Mumbai,Furniture
+Winter Jacket,25,2500,1600,2024-03-15,Delhi,Clothing
+Laptop,7,58000,42000,2024-03-18,Bangalore,Electronics
+Mobile Phone,15,20000,13000,2024-03-20,Mumbai,Electronics
+Yoga Mat,30,850,500,2024-03-22,Delhi,Sports
+Dumbbells Set,12,2800,1800,2024-03-25,Chennai,Sports
+History Book,20,380,200,2024-03-28,Hyderabad,Books
+Basmati Rice 5kg,70,550,360,2024-03-30,Delhi,Food
